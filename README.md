@@ -1,2 +1,2 @@
 # Furuhashi
-an online japanese dictionary
+an online japanese dictionary made in javascript/typescript
