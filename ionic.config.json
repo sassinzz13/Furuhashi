@@ -1,0 +1,7 @@
+{
+  "name": "Furuhashi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
